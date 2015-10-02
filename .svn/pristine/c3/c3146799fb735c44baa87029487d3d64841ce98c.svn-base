@@ -1,0 +1,2 @@
+default:
+	g++ -o dominion2 main.cpp
